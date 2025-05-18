@@ -13,7 +13,7 @@ We provide comprehensive experimental results and visualizations that demonstrat
 
 ***A fairytale cabin with many balloons on the roof, a mailbox in front of the door, and a little fox standing next to the mailbox***
 <div style='gif'>
-<img src="https://github.com/bingozju/Dream2Real/blob/main/A-fairytable-cabin-with.gif" alt="demo1" align=center />
+<img src="https://github.com/bingozju/Dream2Real/blob/main/A-fairytale-cabin-with.gif" alt="demo1" align=center />
 </div>
 
 ***A boy and a girl are sitting around a tree stump with a cake on it, with a tiger sitting next to them***
