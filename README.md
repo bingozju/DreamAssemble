@@ -9,7 +9,7 @@ We provide comprehensive experimental results and visualizations that demonstrat
 
 <h3>Complex multi-object Text-to-3D</h3>
 
-* If you meet any display problem, please click the corresponding GIF file to view the content properly. This seems to be a problem caused by anonymous, and there is no such issue in github.
+* (For anonymous) If you meet any display problem, please click the corresponding GIF file to view the content properly. This seems to be a problem caused by anonymous, and there is no such issue in github.
 
 ***A fairytale cabin with many balloons on the roof, a mailbox in front of the door, and a little fox standing next to the mailbox***
 ![demo1](https://github.com/bingozju/Dream2Real/blob/main/A%20fairytale%20cabin%20with%20many%20balloons%20on%20the%20roof%2C%20a%20mailbox%20in%20front%20of%20the%20door%2C%20and%20a%20little%20fox%20on%20ground%2C%20sending%20a%20letter.gif)
