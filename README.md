@@ -11,12 +11,12 @@ We provide comprehensive experimental results and visualizations that demonstrat
 
 * (For anonymous) If you meet any display problem, please click the corresponding GIF file to view the content properly. This seems to be a problem caused by anonymous, and there is no such issue in github.
 
-***A fairytale cabin with many balloons on the roof, a mailbox in front of the door, and a little fox standing next to the mailbox***
+***A fairytale cabin with many balloons on the roof, a mailbox in front of the door, and a little fox sedning a letter.***
 <div style='gif'>
 <img src="https://github.com/bingozju/Dream2Real/blob/main/A-fairytale-cabin-with.gif" alt="demo1" align=center />
 </div>
 
-***A boy and a girl are sitting around a tree stump with a cake on it, with a tiger sitting next to them***
+***A boy and a girl are sitting around a tree stump with a cake on it, with a tiger sitting next to them.***
 ![demo2](https://github.com/bingozju/Dream2Real/blob/main/A-boy-and-a-girl.gif)
 
 
