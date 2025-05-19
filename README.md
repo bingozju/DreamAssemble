@@ -39,10 +39,12 @@ pip install -r requirements.txt
 # Usage
 ```bash
 
+### Use a .yaml config with prompts settings for training.
+
 ### bash training
- ./train.sh -w panda-hat-cello-bamboo -c trainfiles/panda-hat-cello-bamboo.yaml -g 0;
+ ./train.sh -w boy-girl-tiger-cake-stump -c trainfiles/boy-girl-tiger-cake-stump-IF.yaml -g 0;
 ### use Dmtet for refinement of mesh
- ./train.sh -w panda-hat-cello-bamboo -c trainfiles/panda-hat-cello-bamboo.yaml -g 0 -d;
+ ./train.sh -w boy-girl-tiger-cake-stump -c trainfiles/boy-girl-tiger-cake-stump-IF.yaml -g 0 -d;
 
 ```
 
