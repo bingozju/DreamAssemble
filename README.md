@@ -8,7 +8,7 @@ Furthermore, our method reduces the variance in the latent space during the dist
 We provide comprehensive experimental results and visualizations that demonstrate the effectiveness of our proposed method, along with the corresponding theoretical analysis. We believe that this approach has significant potential to contribute the field of 3D generation.
 
 
-<h3>How Multi-Density Works</h3>
+  <h3>Training Multi-Density Field</h3>
 
 * M=4, 100epochs, 100 steps for each epoch:
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/training.gif)
