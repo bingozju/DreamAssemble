@@ -7,10 +7,10 @@ Recent advancements in Text-to-3D generation are heavily limited by the capabili
 Furthermore, our method reduces the variance in the latent space during the distillation process by decomposing prompts, showing an improved ability to handle abstract textual descriptions and significantly alleviating the Janus problem commonly encountered in Text-to-3D generation.
 We provide comprehensive experimental results and visualizations that demonstrate the effectiveness of our proposed method, along with the corresponding theoretical analysis. We believe that this approach has significant potential to contribute the field of 3D generation.
 
+<h3>Training Multi-Density Field</h3>
 
-  <h3>Training Multi-Density Field</h3>
+M=4, 100epochs, 100 steps for each epoch:
 
-* M=4, 100epochs, 100 steps for each epoch:
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/training.gif)
 
 <h3>Demos of Complex Multi-Object Text-to-3D</h3>
