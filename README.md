@@ -13,10 +13,10 @@ We provide comprehensive experimental results and visualizations that demonstrat
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/panda-hat-bamboo-cello.gif)
 
 *A fairytale **cabin** with many **balloons** on the roof, a **mailbox** in front of the door, and a little **fox** sedning a letter.*
-![demo](https://github.com/bingozju/Dream2Real/blob/main/cabin-fox-balloons-mailbox.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/cabin-balloons-mailbox-fox.gif)
 
 *A **boy** and a **girl** are sitting around a **tree stump** with a cake on it, with a **tiger** sitting next to them.*
-![demo](https://github.com/bingozju/Dream2Real/blob/main/boy_girl-tiger-stump-cake.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/boy-girl-stump-cake-tiger.gif)
 
 
 
