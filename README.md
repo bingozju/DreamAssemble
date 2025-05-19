@@ -1,5 +1,5 @@
 # Dream2Real
-<h3>Official project repository of Dream2Real</h3>
+<h3>Official repository of Dream2Real</h3>
 
 ![](https://github.com/bingozju/Dream2Real/blob/main/visualization/homepageimage.jpg)
 
