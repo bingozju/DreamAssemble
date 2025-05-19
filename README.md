@@ -21,7 +21,7 @@ M=4, 100epochs, 100 steps for each epoch:
 *A stuffed **giant panda**, wearing a **cowboy hat**, playing a **cello**, next to a few **bamboo**.* (M=4)
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/panda-hat-bamboo-cello.gif)
 
-*A fairytale **cabin** with many **balloons** on the roof, a **mailbox** in front of the door, and a little **fox** sedning a letter.* (M=4)
+*A fairytale **cabin** with many **balloons** on the roof, a **mailbox** in front of the door, and a little **fox** is holding a letter.* (M=4)
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/cabin-balloons-mailbox-fox.gif)
 
 *A **boy** and a **girl** are sitting around a **tree stump** with a cake on it, with a **tiger** sitting next to them.* (M=5)
