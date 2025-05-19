@@ -9,21 +9,16 @@ We provide comprehensive experimental results and visualizations that demonstrat
 
 <h3>Complex multi-object Text-to-3D</h3>
 
-***A fairytale cabin with many balloons on the roof, a mailbox in front of the door, and a little fox sedning a letter.***
-<div style='gif'>
-<img src="https://github.com/bingozju/Dream2Real/blob/main/A-fairytale-cabin-with.gif" alt="demo1" align=center />
-</div>
+*A stuffed **giant panda**, wearing a **cowboy hat**, playing a **cello**, next to a few **bamboo**.*
+![demo](https://github.com/bingozju/Dream2Real/blob/main/panda-hat-bamboo-cello.gif)
 
-***A boy and a girl are sitting around a tree stump with a cake on it, with a tiger sitting next to them.***
-![demo2](https://github.com/bingozju/Dream2Real/blob/main/A-boy-and-a-girl.gif)
+*A fairytale **cabin** with many **balloons** on the roof, a **mailbox** in front of the door, and a little **fox** sedning a letter.*
+![demo](https://github.com/bingozju/Dream2Real/blob/main/cabin-fox-balloons-mailbox.gif)
+
+*A **boy** and a **girl** are sitting around a **tree stump** with a cake on it, with a **tiger** sitting next to them.*
+![demo](https://github.com/bingozju/Dream2Real/blob/main/boy_girl-tiger-stump-cake.gif)
 
 
 
-<style>
-    gif {
-         width: 100%;
-         hegith:100%;
-         object-fit: contain;
-    }
-</style>
+
 
