@@ -10,6 +10,7 @@ We provide comprehensive experimental results and visualizations that demonstrat
 
 <h3>How Multi-Density Works</h3>
 
+* M=4, 100epochs, 100 steps for each epoch:
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/training.gif)
 
 <h3>Demos of Complex Multi-Object Text-to-3D</h3>
