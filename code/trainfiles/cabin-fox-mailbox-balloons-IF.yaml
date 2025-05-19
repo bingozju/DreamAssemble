@@ -1,13 +1,16 @@
-text: "A stuffed giant panda, wearing a cowboy hat, playing a cello, sitting next to a few bamboos"
-part_texts: "A giant panda; A few bamboos; A cowboy hat; A cello"
+text: "A fairytale cabin with many balloons on the roof, a mailbox in front of the door, and a little fox on ground, holding a letter."
+part_texts: "A fairytale cabin; balloons; mailbox; a little fox, holding a letter"
+
 
 part_centers: 
-part_scales:
+part_scales: 
 
+fp16: True
 save_mesh: True
 
-IF: False
+IF: True
 sd_version: "2.1"
+
 
 seed: 42
 density_activation: "exp"
@@ -20,6 +23,7 @@ phi_range: [-180, 180]
 default_polar: 90
 default_azimuth: 0
 bg_radius: 1.4
-density_thresh: 100
+density_thresh: 1
 blob_density: 10.
 blob_radius: 0.2
+

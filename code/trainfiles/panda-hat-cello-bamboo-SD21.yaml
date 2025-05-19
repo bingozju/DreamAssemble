@@ -1,0 +1,26 @@
+text: "A stuffed giant panda, wearing a cowboy hat, playing a cello, sitting next to a few bamboos"
+part_texts: "A giant panda; A few bamboos; A cowboy hat; A cello"
+
+part_centers: 
+part_scales:
+  
+fp16: True
+save_mesh: True
+
+IF: False
+sd_version: "2.1"
+
+seed: 42
+density_activation: "exp"
+radius_range: [3., 3.5]
+default_radius: 3.2
+fovy_range: [19, 21]
+default_fovy: 20
+theta_range: [45, 105]
+phi_range: [-180, 180]
+default_polar: 90
+default_azimuth: 0
+bg_radius: 1.4
+density_thresh: 100
+blob_density: 10.
+blob_radius: 0.2

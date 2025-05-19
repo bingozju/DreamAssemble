@@ -1,0 +1,28 @@
+text: "A boy and a girl are sitting around a tree stump with a cake on it, with a tiger sitting next to them."
+part_texts: "A boy squatting; a girl squatting; a cake; a tree stump; a tiger Referee, squatting"
+
+
+part_centers: 
+part_scales: 
+
+fp16: True
+save_mesh: True
+
+IF: True
+sd_version: "2.1"
+
+
+seed: 42
+density_activation: "exp"
+radius_range: [3., 3.5]
+default_radius: 3.2
+fovy_range: [19, 21]
+default_fovy: 20
+theta_range: [45, 105]
+phi_range: [-180, 180]
+default_polar: 90
+default_azimuth: 0
+bg_radius: 1.4
+density_thresh: 1
+blob_density: 10.
+blob_radius: 0.2

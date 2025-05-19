@@ -3,7 +3,8 @@ part_texts: "A giant panda; A few bamboos; A cowboy hat; A cello"
 
 part_centers: 
 part_scales:
-
+  
+fp16: True
 save_mesh: True
 
 IF: True
