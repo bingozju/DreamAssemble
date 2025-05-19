@@ -31,9 +31,18 @@ M=4, 100epochs, 100 steps for each epoch:
 
 # Install
 
+The codebase is built on [stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion). For installation, 
+```
+pip install -r requirements.txt
+```
+
 # Usage
 ```bash
- ./train.sh -w bear-hat-piano-cat -c code/trainfiles/bear-pirate-piano-cat.yaml -g 0;
+
+### bash training
+ ./train.sh -w panda-hat-cello-bamboo -c trainfiles/panda-hat-cello-bamboo.yaml -g 0;
+### use Dmtet for refinement of mesh
+ ./train.sh -w panda-hat-cello-bamboo -c trainfiles/panda-hat-cello-bamboo.yaml -g 0 -d;
 
 ```
 
