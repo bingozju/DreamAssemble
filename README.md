@@ -15,14 +15,16 @@ M=4, 100epochs, 100 steps for each epoch:
 
 <h3>Demos of Complex Multi-Object Text-to-3D</h3>
 
-*A stuffed **giant panda**, wearing a **cowboy hat**, playing a **cello**, next to a few **bamboo**.*
+*A stuffed **giant panda**, wearing a **cowboy hat**, playing a **cello**, next to a few **bamboo**.* (M=4)
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/panda-hat-bamboo-cello.gif)
 
-*A fairytale **cabin** with many **balloons** on the roof, a **mailbox** in front of the door, and a little **fox** sedning a letter.*
+*A fairytale **cabin** with many **balloons** on the roof, a **mailbox** in front of the door, and a little **fox** sedning a letter.* (M=4)
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/cabin-balloons-mailbox-fox.gif)
 
-*A **boy** and a **girl** are sitting around a **tree stump** with a cake on it, with a **tiger** sitting next to them.*
+*A **boy** and a **girl** are sitting around a **tree stump** with a cake on it, with a **tiger** sitting next to them.* (M=5)
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/boy-girl-stump-cake-tiger.gif)
+
+
 
 
 
