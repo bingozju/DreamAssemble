@@ -7,7 +7,11 @@ Recent advancements in Text-to-3D generation are heavily limited by the capabili
 Furthermore, our method reduces the variance in the latent space during the distillation process by decomposing prompts, showing an improved ability to handle abstract textual descriptions and significantly alleviating the Janus problem commonly encountered in Text-to-3D generation.
 We provide comprehensive experimental results and visualizations that demonstrate the effectiveness of our proposed method, along with the corresponding theoretical analysis. We believe that this approach has significant potential to contribute the field of 3D generation.
 
-<h3>Complex multi-object Text-to-3D</h3>
+
+<h3>How Multi-Density Works</h3>
+![demo](https://github.com/bingozju/Dream2Real/blob/main/training.gif)
+
+<h3>Demos of Complex Multi-Object Text-to-3D</h3>
 
 *A stuffed **giant panda**, wearing a **cowboy hat**, playing a **cello**, next to a few **bamboo**.*
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/panda-hat-bamboo-cello.gif)
