@@ -22,6 +22,9 @@ M=4, 100epochs, 100 steps for each epoch:
 *A fairytale **cabin** with many **balloons** on the roof, a **mailbox** in front of the door, and a little **fox** is holding a letter.* (M=4)
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/cabin-balloons-mailbox-fox.gif)
 
+*A furry **polar bear** wearing a **pirate hat** is playing the **piano**, and **a cat** is sleeping on the piano.* (M=4)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/bear-hat-piano-cat.gif)
+
 *A **boy** and a **girl** are sitting around a **tree stump** with a cake on it, with a **tiger** sitting next to them.* (M=5)
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/boy-girl-stump-cake-tiger.gif)
 
