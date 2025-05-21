@@ -1,5 +1,5 @@
 # Dream2Real
-<h3>Official repository of Dream2Real</h3>
+### Official repository of Dream2Real</h3>
 
 ![](https://github.com/bingozju/Dream2Real/blob/main/visualization/homepageimage.jpg)
 
@@ -11,8 +11,11 @@
 
 M=4, 100epochs, 100 steps for each epoch:
 
-![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/training.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/trainingM4.gif)
 
+M=6, 100epochs, 100 steps for each epoch:
+
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/trainingM6.gif)
 
 ###  Demos of Complex Multi-Object Text-to-3D
 
@@ -28,7 +31,20 @@ M=4, 100epochs, 100 steps for each epoch:
 *A **boy** and a **girl** are sitting around a **tree stump** with a cake on it, with a **tiger** sitting next to them.* (M=5)
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/boy-girl-stump-cake-tiger.gif)
 
+*A **dragon** is dancing on a **lotus flower**; a little **piglet** and a baby **giraffe** are dancing next to the clown; a little **turtle** is squatting under the leaf; a star-shaped **balloon** is behind them.(M=6)*
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/dragon_flower_turtle_piggy_giraffe_balloon.gif)
 
+*A **clown** is dancing on a **lotus flower**; a little **piglet** and a little **dragon** are dancing next to the clown; a little **turtle** is squatting under the leaf; a star-shaped **balloon** is behind them.(M=6)*
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/clown_flower_turtle_piggy_dragon_balloon.gif)
+
+###  More Demos
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single-pandaM3.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single-bearM3.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single-robotM3.gif)
+
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single_foxM4.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single-chessingM6.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single-animalsM6.gif)
 
 # Install
 
