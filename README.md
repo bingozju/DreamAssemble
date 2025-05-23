@@ -34,8 +34,26 @@ M=6, 100epochs, 100 steps for each epoch:
 *A **dragon** is dancing on a **lotus flower**; a little **piglet** and a baby **giraffe** are dancing next to the clown; a little **turtle** is squatting under the leaf; a star-shaped **balloon** is behind them.(M=6)*
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/dragon_flower_turtle_piggy_giraffe_balloon.gif)
 
+### Customization
+
+*A **dragon** is dancing on a **lotus flower**; a little **piglet** and a baby **giraffe** are dancing next to the clown; a little **turtle** is squatting under the leaf; a star-shaped **balloon** is behind them.(M=6)*
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/dragon_flower_turtle_piggy_giraffe_balloon.gif)
+
 *A **clown** is dancing on a **lotus flower**; a little **piglet** and a little **dragon** are dancing next to the clown; a little **turtle** is squatting under the leaf; a star-shaped **balloon** is behind them.(M=6)*
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/clown_flower_turtle_piggy_dragon_balloon.gif)
+
+###  Diversity
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/diversity_fox1.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/diversity_fox2.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/diversity_fox3.gif)
+
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/diversity_bear1.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/diversity_bear2.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/diversity_bear3.gif)
+
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/diversity_panda1.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/diversity_panda2.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/diversity_panda3.gif)
 
 ###  More Text-to-3D
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single-pandaM3.gif)
@@ -45,6 +63,12 @@ M=6, 100epochs, 100 steps for each epoch:
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single_foxM4.gif)
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single-chessingM6.gif)
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single-animalsM6.gif)
+
+
+
+
+
+### Diversity
 
 # Install
 
