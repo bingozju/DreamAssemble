@@ -60,7 +60,7 @@ M=6, 100epochs, 100 steps for each epoch:
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single-bearM3.gif)
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single-robotM3.gif)
 
-![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single_foxM4.gif)
+![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/students_sketch_fountain_squirrel.gif)
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single-chessingM6.gif)
 ![demo](https://github.com/bingozju/Dream2Real/blob/main/visualization/single-animalsM6.gif)
 
