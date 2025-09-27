@@ -1,5 +1,5 @@
-# Dream2Real
-### Official repository of Dream2Real</h3>
+# DreamAssemble
+### Official repository of DreamAssemble</h3>
 
 ![](https://github.com/bingozju/Dream2Real/blob/main/visualization/homepageimage.jpg)
 
