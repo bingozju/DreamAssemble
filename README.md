@@ -1,6 +1,12 @@
 # DreamAssemble
 
-Multi-density NeRF for compositional text-to-3D generation. DreamAssemble jointly distills a global scene description and per-object sub-prompts into a single neural field, sidestepping the multi-object failure modes of vanilla SDS for complex prompts.
+# DreamAssemble
+
+**Official implementation of**
+**["DreamAssemble: Complex Multi-object Text-to-3D Generation via Multi-Density Neural Fields"](https://github.com/bingozju/DreamAssemble).**
+
+--
+Score-distillation methods (DreamFusion, ProlificDreamer, Perp-Neg, …) work well on single objects but tend to break on **complex multi-object prompts**
 
 ## Visualization
 
