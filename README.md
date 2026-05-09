@@ -5,7 +5,6 @@
 **Official implementation of**
 **["DreamAssemble: Complex Multi-object Text-to-3D Generation via Multi-Density Neural Fields"](https://github.com/bingozju/DreamAssemble).**
 
---
 Score-distillation methods (DreamFusion, ProlificDreamer, Perp-Neg, …) work well on single objects but tend to break on **complex multi-object prompts**
 
 ## Visualization
