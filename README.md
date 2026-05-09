@@ -86,7 +86,7 @@ cd DreamAssemble
 # 2. set up a Python environment
 conda create -n dreamassemble python=3.10 -y
 conda activate dreamassemble
-pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cuxxx
 
 # 3. project requirements
 pip install -r requirements.txt
