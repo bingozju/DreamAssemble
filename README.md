@@ -1,14 +1,6 @@
 # DreamAssemble
 
-Multi-density NeRF for compositional text-to-3D generation. DreamAssemble jointly
-distills a global scene description and per-object sub-prompts into a single
-neural field, sidestepping the multi-object failure modes of vanilla SDS.
-
-This repository is a cleaned, open-source release of the research code. The
-neural and diffusion components are descendants of
-[stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion); the
-multi-density backbone, parallelized distillation sampling and edge-sparsity
-loss are contributions of DreamAssemble.
+Multi-density NeRF for compositional text-to-3D generation. DreamAssemble jointly distills a global scene description and per-object sub-prompts into a single neural field, sidestepping the multi-object failure modes of vanilla SDS for complex prompts.
 
 ## Visualization
 
