@@ -1,0 +1,29 @@
+# M=5: "A boy and a girl are playing chess on a tree stump, with a tiger
+# acting as the referee" (chess board replaced with a birthday cake to avoid
+# the flat-geometry failure mode discussed in the paper, Fig. 5).
+
+text: "A boy and a girl are playing on a tree stump, with a tiger acting as the referee, with a birthday cake on the stump."
+part_texts: "A sitting boy; A sitting girl; A sitting tiger; A tree stump; A birthday cake"
+part_centers: [[-0.25, 0.0, 0.0], [0.25, 0.0, 0.0], [0.0, 0.0, 0.25], [0.0, 0.0, 0.0], [0.0, 0.1, 0.0]]
+part_scales: [0.7, 0.7, 0.5, 0.5, 0.5]
+parts_blob_radius: [0.1, 0.1, 0.1, 0.1, 0.1]
+
+fp16: true
+save_mesh: true
+
+IF: true
+sd_version: "2.1"
+
+density_activation: "exp"
+radius_range: [3.0, 3.5]
+default_radius: 3.2
+fovy_range: [19, 21]
+default_fovy: 20
+theta_range: [45, 105]
+phi_range: [-180, 180]
+default_polar: 90
+default_azimuth: 0
+bg_radius: 1.4
+density_thresh: 1
+blob_density: 5.0
+blob_radius: 0.2

@@ -9,48 +9,35 @@ matplotlib
 opencv-python
 imageio
 imageio-ffmpeg
-
-# torch
-# torch-ema
 einops
+packaging
+psutil
+PyYAML
+
+# logging
 tensorboard
 tensorboardX
 
-# for gui
-dearpygui
+# core training
+torch
+torch-ema
 
-# for grid_tcnn
-# git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
-
-# for stable-diffusion
+# diffusion guidance
 huggingface_hub
 diffusers
 accelerate
 transformers
+sentencepiece            # required by DeepFloyd IF tokenizer
 
-# for dmtet and mesh export
+# config
+omegaconf
+
+# DMTet and mesh export
 xatlas
 trimesh
 PyMCubes
 pymeshlab
 git+https://github.com/NVlabs/nvdiffrast/
 
-# for zero123
-# carvekit-colab
-omegaconf
-# pytorch-lightning
-# taming-transformers-rom1504
-# kornia
-git+https://github.com/openai/CLIP.git
-
-# for omnidata
-gdown
-
-# for dpt
-timm
-
-# for remote debugging
-# debugpy-run
-
-# for deepfloyd if
-sentencepiece
+# LLM-assisted YAML generation (only used by llm/llm_gen.py)
+openai

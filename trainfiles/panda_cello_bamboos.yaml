@@ -1,0 +1,29 @@
+# M=4: A stuffed giant panda doll, wearing a cowboy hat, playing a cello,
+# next to a few bamboos.
+
+text: "A stuffed giant panda doll, wearing a cowboy hat, playing a cello, next to a few bamboos"
+part_texts: "a giant panda doll, sitting; A few bamboos; a cowboy hat; a cello"
+# part_centers axes: [left-right, up-down, front-back]
+part_centers: [[0, 0, 0], [0.25, 0, 0], [0, 0.3, 0], [0, 0, 0.25]]
+part_scales: [0.8, 0.8, 0.8, 0.5]
+parts_blob_radius: [0.1, 0.1, 0.1, 0.1]
+
+fp16: true
+save_mesh: true
+
+IF: true
+sd_version: "2.1"
+
+density_activation: "exp"
+radius_range: [3.0, 3.5]
+default_radius: 3.2
+fovy_range: [19, 21]
+default_fovy: 20
+theta_range: [45, 105]
+phi_range: [-180, 180]
+default_polar: 90
+default_azimuth: 0
+bg_radius: 1.4
+density_thresh: 100
+blob_density: 10.0
+blob_radius: 0.2

@@ -1,0 +1,28 @@
+# M=4: A polar bear wearing a pirate hat is playing the piano,
+# with a cat sleeping on the piano.
+
+text: "A polar bear wearing a pirate hat is playing the piano, and a cat sleeping on the piano"
+part_texts: "A white polar bear doll, sitting; a pirate hat; a piano; a sleeping cat"
+part_centers: [[0, 0, -0.25], [0, 0.3, -0.25], [0, 0, 0.25], [0, 0.2, 0.25]]
+part_scales: [1, 0.5, 1, 0.5]
+parts_blob_radius: [0.1, 0.1, 0.1, 0.1]
+
+fp16: true
+save_mesh: true
+
+IF: true
+sd_version: "2.1"
+
+density_activation: "exp"
+radius_range: [3.0, 3.5]
+default_radius: 3.2
+fovy_range: [19, 21]
+default_fovy: 20
+theta_range: [45, 105]
+phi_range: [-180, 180]
+default_polar: 90
+default_azimuth: 0
+bg_radius: 1.4
+density_thresh: 1
+blob_density: 5.0
+blob_radius: 0.2

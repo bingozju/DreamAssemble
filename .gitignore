@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Training artifacts
+results/
+results_dmtet/
+checkpoints/
+runs/
+wandb/
+log_*.txt
+*.pth
+*.ckpt
+
+# Outputs we don't want to commit
+*.mp4
+*.gif
+debug_*.jpg
+debug_*.png
+
+# Tetrahedral grids (download separately)
+tets/*.npz
+
+# Pretrained model caches
+.cache/
+huggingface/
