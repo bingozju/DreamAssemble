@@ -91,8 +91,6 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cuxxx
 # 3. project requirements
 pip install -r requirements.txt
 
-# 4. install the CUDA extensions from torch-ngp / stable-dreamfusion
-#    (clone the upstream repo and run pip install ./gridencoder etc.)
 ```
 
 ### Tetrahedral grids (DMTet stage)
@@ -152,7 +150,7 @@ Each YAML in `trainfiles/` describes one scene:
 - `part_scales` — radial cropping factor per subspace (used by the edge
   sparsity loss).
 - `parts_blob_radius` — initial density-blob radius per subspace.
-- camera/sampling parameters: `radius_range`, `theta_range`, `fovy_range`, etc.
+
 
 Provided examples:
 
