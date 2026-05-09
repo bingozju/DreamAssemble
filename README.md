@@ -100,9 +100,6 @@ tets/
 └── 256_tets.npz
 ```
 
-Grids are available at the
-[NVlabs/nvdiffrec](https://github.com/NVlabs/nvdiffrec) repository.
-
 ## Usage
 
 The canonical entry point is `train.sh`:
