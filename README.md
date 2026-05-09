@@ -194,7 +194,7 @@ python llm/llm_gen.py \
 
 ## Citation
 ```bibtex
-@ARTICLE{11479654,
+@ARTICLE{dreamassemble2025,
   author={Huang, Bin and Wang, Jinbao and Jiang, Dongmei and Pei, Hongjuan and Li, Qiulu and Xue, Jian and Lu, Ke},
   journal={IEEE Transactions on Image Processing}, 
   title={DreamAssemble: Complex Multi-Object Text-to-3D Generation via Multi-Density Neural Fields}, 
